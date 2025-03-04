@@ -1,5 +1,7 @@
 # 4ksj-checkin
 
+2025/03/04 Keep Active
+
 2024/11/15 修复4ksj cookie失效
 
 #### 脚本功能：
